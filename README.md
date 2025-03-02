@@ -51,6 +51,6 @@ Matplotlib
 
 ## References:
 
-The Qatar TSP dataset was obtained from [University of Waterloo](https://www.math.uwaterloo.ca/tsp/world/countries.html).
-The JSSP data was taken from [here](https://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt)
+The Qatar TSP dataset (qa194.tsp) was obtained from [University of Waterloo](https://www.math.uwaterloo.ca/tsp/world/countries.html).
+The JSSP data (abz7, la19, ft10) was taken from [here](https://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt)
 
